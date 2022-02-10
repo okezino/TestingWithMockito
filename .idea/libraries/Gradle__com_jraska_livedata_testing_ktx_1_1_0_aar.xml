@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.jraska.livedata:testing-ktx:1.1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2ca3cdbcda2fa1e814b33992e77b5179/testing-ktx-1.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2ca3cdbcda2fa1e814b33992e77b5179/testing-ktx-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2ca3cdbcda2fa1e814b33992e77b5179/testing-ktx-1.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jraska.livedata/testing-ktx/1.1.0/3f6534c081a05657517ffea5e65d0a48d842b556/testing-ktx-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

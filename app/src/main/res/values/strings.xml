@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Globomantic\'s Todo</string>
+    <string name="start_label">Start</string>
+    <string name="due_label">Due</string>
+    <string name="title">Title</string>
+    <string name="save">Save</string>
+    <string name="clear_due_date">Clear Due Date</string>
+    <string name="set_due_date">Set Due Date</string>
+    <string name="add">Add Todo</string>
+    <string name="due_soon">Due Soon:</string>
+</resources>
